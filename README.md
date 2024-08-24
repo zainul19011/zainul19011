@@ -6,7 +6,7 @@ A passionate Cyber Security And UI/UX Designer from Indonesia🗿
 - 📫 How to reach me **zainulanwaradiputra80gmail.com**
 - ⚡ Fun fact **i think i am i funny**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QialR&label=Profile%20views&color=0e75b6&style=flat" alt="QialR" /> </p>
-### Connect with me:
+<h3 align="left"> Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram&logoColor=white)](your-instagram-url)
