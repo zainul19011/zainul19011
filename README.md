@@ -3,7 +3,7 @@ A passionate Cyber Security And UI/UX Designer from Indonesia🗿
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🌱 I’m currently learning **Cyber Security Analyst and UI/UX Design**
-- 📫 How to reach me **zainulanwaradiputra80gmail.com**
+- 📫 How to reach me **zainulanwaradiputra8gmail.com**
 - ⚡ Fun fact **i think i am i funny**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QialR&label=Profile%20views&color=0e75b6&style=flat" alt="QialR" /> </p>
 <h3 align="left"> Connect with me</h3>
